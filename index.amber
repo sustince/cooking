@@ -1,0 +1,36 @@
+!!!
+html
+	head
+		meta[charset="utf-8"]
+		meta[name="viewport"][content="width=device-width, initial-scale=1"]
+		link[rel="stylesheet"][href="pico/pico.min.css"]
+		link[rel="stylesheet"][href="main.css"]
+		title sus-cooking
+
+	body
+		main.container
+			nav
+				ul
+					li
+						a[href="../index.html"].secondary Home
+				ul
+					li
+						a[href="sustince.html"].mid
+							strong sus-cooking
+				ul
+					li
+						a[href=#{nx}] #{nx}
+			ul
+				li
+					a[href="docs/buying-fresh.html"] How to buy fresh foods
+				li
+					a[href="docs/ingredient-functions.html"] What do the ingredients in a recipe actually do?
+				li
+					a[href="docs/whole-vs-processed.html"] What is the difference between whole and processed foods?
+				li
+					a[href="docs/balanced-meals.html"] How do you have a balanced meal?
+				li
+					a[href="docs/80-20-rule.html"] What is the 80/20 rule?
+				li
+					a[href="docs/snacks-vs-treats.html"] Snacks versus treats
+		script src="js/minimal-theme-switcher.js"

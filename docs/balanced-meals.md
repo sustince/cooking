@@ -1,7 +1,7 @@
-
-Balanced meals
-
-Dean & Justin
+tt: Balanced meals
+au: Dean & Justin
+nx:
+---
 
 ## What are balanced meals?
 
@@ -56,8 +56,3 @@ The Australian Guide to Healthy Eating (AGHE) suggests for the following to be u
 
 ## Conclusion
 In general, eat plenty of fresh plant based, and limit intake of processed foods.
-
-
-.[
-$LIST$
-.]
