@@ -12,14 +12,22 @@ html
 			nav
 				ul
 					li
-						a[href="../index.html"].secondary Home
+						a[href="index.html"].secondary Home
 				ul
 					li
-						a[href="sustince.html"].mid
+						a[href="docs/sustince.html"].mid
 							strong sus-cooking
 				ul
 					li
-						a[href=#{nx}] #{nx}
+						details[role="list"]
+								summary[aria-haspopup="listbox"][role="link"].contrast Theme
+								ul[role="listbox"]
+									li
+										a[href="#"][data-theme-switcher="auto"] Auto
+									li
+										a[href="#"][data-theme-switcher="light"] Light
+									li
+										a[href="#"][data-theme-switcher="dark"] Dark
 			ul
 				li
 					a[href="docs/buying-fresh.html"] How to buy fresh foods
