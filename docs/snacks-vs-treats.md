@@ -1,5 +1,6 @@
 tt: Snacks vs treats
 au: Dean
+nx: buying-fresh.html
 ---
 
 Snacks are small things that you eat that are made up of whole foods, such as fruits, and should be eaten between meals, filling up nutritional gaps. Treats are processed foods, that have extra sugar and low nutritional value.

@@ -1,6 +1,6 @@
 tt: Balanced meals
 au: Dean & Justin
-nx:
+nx: 80-20-rule.html
 ---
 
 ## What are balanced meals?

@@ -1,5 +1,6 @@
 tt: Ingredient Functions
 au: Dean Gao
+nx: whole-vs-processed.html
 ---
 
 You might have made something with a recipe before, but did you ever wonder why the food tasted like it tasted, what role does each ingredient play? This article will teach you the basics of ingredient functions, so you can learn from recipes and perhaps create your own, with enough practice.

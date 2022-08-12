@@ -1,5 +1,6 @@
 tt: Buying Fresh
 au: Dean
+nx: ingredient-functions.html
 ---
 
 ## Why buy fresh foods?
