@@ -15,7 +15,7 @@ html
 						a[href="../index.html"].secondary Home
 				ul
 					li
-						a[href="docs/sustince.html"].mid
+						a[href="sustince.html"].mid
 							strong sus-cooking
 				ul
 					li
