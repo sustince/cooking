@@ -1,5 +1,4 @@
 tt: Balanced meals
-au: Dean & Justin
 nx: 80-20-rule.html
 ---
 
