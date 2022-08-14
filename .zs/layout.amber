@@ -23,9 +23,6 @@ html
 
 			h1 #{tt}
 
-			p
-				span.small By #{au}
-
 			#{unescaped(content)}
 
 		script src="js/minimal-theme-switcher.js"

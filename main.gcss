@@ -4,13 +4,6 @@ h2, h3
 h4
   height: 5px
 
-h1
-  height: 0px
-
-span.small
-  font-size: smaller
-  padding-bottom: 20px
-
 a.mid
   position: absolute
   color: inherit
