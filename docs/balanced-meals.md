@@ -34,7 +34,7 @@ Vegetables are a key source of essential vitamins and minerals. Leafy greens suc
 #### Grains
 Grains such as bread and rice have limited nutritional value, but provide many carbohydrates. They should be eaten less, but are still important. Whole grain products include the entire grain (the outside shell), which provides additional vitamins, minerals and fiber, which are healthier.
 
-#### Protiens
+#### Proteins
 Meats are primary sources of protein, which are essential for many things in the body. They can be substituted with beans, nuts or soy products, which still provide lots of protein, though less dense.
 
 #### Dairy
@@ -43,15 +43,71 @@ Dairy products provide nutrients, including protein, calcium and vitamin D which
 ## Australian guide to healthy eating
 The Australian guide to healthy eating refers to the ideal way of eating nutritiously through mainly fresh food. The information is categorised using a pie chart with sectors that represent each food group. The size of the sector represents the ratio of how much you should eat. The 5 main food groups are carbohydrates, vegetables, fruit, dairy, and protein. Out of the average person’s entire diet, around 35% of it should be carbohydrates, 30% should be vegetables, 10% should be fruit, 10% should be dairy, and 15% should be protein.
 
-Carbohydrates include: bread, cereal, rice, muffins, oats, weet-bix, muesli, quinoa, polenta, pasta, noodles, pancakes, etc.
+Carbohydrates include:
 
-Vegetables include: lettuce, cabbage, cucumber, tomato, carrot, onion, broccoli, capsicum, spring onion, garlic, spinach, potatoes, etc.
+ - bread
+ - cereal
+ - rice
+ - muffins
+ - oats
+ - weet-bix
+ - muesli
+ - quinoa
+ - polenta
+ - pasta
+ - noodles
+ - pancakes
 
-Fruits include: apples, pears, oranges, bananas, grapes, watermelon, mango, berries, etc.
 
-Dairy includes: milk, cheese, butter, yoghurt, cream, etc.
+Vegetables include:
 
-Protein includes: seafood, meat, eggs, nuts, tofu, beans, seeds, poultry, etc.
+ - lettuce
+ - cabbage
+ - cucumber
+ - tomato
+ - carrot
+ - onion
+ - broccoli
+ - capsicum
+ - spring
+ - onion
+ - garlic
+ - spinach
+ - potatoes
+
+
+Fruits include:
+
+ - apples
+ - pears
+ - oranges
+ - bananas
+ - grapes
+ - watermelon
+ - mango
+ - berries
+
+
+Dairy includes:
+
+ - milk
+ - cheese
+ - butter
+ - yoghurt
+ - cream
+
+
+Protein includes:
+
+ - seafood
+ - meat
+ - eggs
+ - nuts
+ - tofu
+ - beans
+ - seeds
+ - poultry
+
 
 The Australian Guide to Healthy Eating (AGHE) suggests for the following to be used in small amounts: vegetable oil, olive oil, canola oil, and margarine. The general rule for food that is to be consumed only sometimes and in small amounts includes highly-processed savoury foods as well as all confectionery and beverages.
 
