@@ -10,12 +10,14 @@ A balanced diet gives your body the nutrients it needs to function correctly. Wi
 ## What to eat for a balanced diet
 
 A healthy, balanced diet will usually include the following nutrients:
+
  - vitamins, minerals, and antioxidants
  - carbohydrates, including starches and fiber
  - protein
  - healthy fats
 
 A balanced diet will include a variety of foods from the following groups:
+
  - fruits
  - vegetables
  - grains

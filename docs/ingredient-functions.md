@@ -1,5 +1,5 @@
 tt: Ingredient Functions
-au: Dean Gao
+au: Dean
 nx: whole-vs-processed.html
 ---
 
