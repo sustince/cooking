@@ -1,4 +1,2 @@
 # sus-cooking
-Cooking site
-
-[pico](https://github.com/picocss/pico)
+Cooking site powered by [pico](https://github.com/picocss/pico)
