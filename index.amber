@@ -41,4 +41,4 @@ html
 					a[href="docs/80-20-rule.html"] What is the 80/20 rule?
 				li
 					a[href="docs/snacks-vs-treats.html"] Snacks versus treats
-		script src="js/minimal-theme-switcher.js"
+		script[src="js/minimal-theme-switcher.js"]
