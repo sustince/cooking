@@ -34,11 +34,11 @@ html
 				li
 					a[href="docs/ingredient-functions.html"] What do the ingredients in a recipe actually do?
 				li
-					a[href="docs/whole-vs-processed.html"] What is the difference between whole and processed foods?
+					a[href="docs/whole-vs-processed.html"] What's the difference between whole and processed foods?
 				li
 					a[href="docs/balanced-meals.html"] How do you have a balanced meal?
 				li
 					a[href="docs/80-20-rule.html"] What is the 80/20 rule?
 				li
-					a[href="docs/snacks-vs-treats.html"] Snacks versus treats
+					a[href="docs/snacks-vs-treats.html"] What's the difference between snacks and treats?
 		script[src="js/minimal-theme-switcher.js"]
