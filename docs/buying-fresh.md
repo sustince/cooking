@@ -21,48 +21,48 @@ Lastly, when fruits or veggies are in season, they are more abundant due to thei
 ## How do I buy fresh foods?
 
 Between selection, purchase and preparation there is a lot to consider when buying fresh produce.
-#### Don't buy foods that are bruised
-You may have been taught that bruised fruit is fine to eat, and it mostly is, but bruises are a great place for bacteria to grow, and overall the fruit is less tasty
 
-#### Give a light squeeze
-Before buying the food, give it a light sqeeze. If the food feels off, (e.g too squishy, too hard), don't buy it.
+Don't buy foods that are bruised
+: You may have been taught that bruised fruit is fine to eat, and it mostly is, but bruises are a great place for bacteria to grow, and overall the fruit is less tasty
 
-#### Smaller fruit
-If the price isn't too high, smaller fruit often have a denser flavour.
+Give a light squeeze
+: Before buying the food, give it a light sqeeze. If the food feels off, (e.g too squishy, too hard), don't buy it.
 
-#### Inspect the color
-Many foods start to change color after being left out too long, for example green apples, when stored too long, start to yellow, and colorful produce may not lead to better produce, as the product is most likely coated with something to make it look more appealing.
+Smaller fruit
+: If the price isn't too high, smaller fruit often have a denser flavour.
 
-#### Compare the price
-Prepackaged produce and loose produce often vary in price, so it is a good idea to compare them before buying
+Inspect the color
+: Many foods start to change color after being left out too long, for example green apples, when stored too long, start to yellow, and colorful produce may not lead to better produce, as the product is most likely coated with something to make it look more appealing.
 
-#### Rinse before consumption
-Foods may have chemicals that the shop sprayed to make it look more appealing, so it is important to give the produce a rinse before consuming. Particularly with apples, there is typically a layer of wax, so it is a good idea to take off the skin of the apple.
+Compare the price
+: Prepackaged produce and loose produce often vary in price, so it is a good idea to compare them before buying
+
+Rinse before consumption
+: Foods may have chemicals that the shop sprayed to make it look more appealing, so it is important to give the produce a rinse before consuming. Particularly with apples, there is typically a layer of wax, so it is a good idea to take off the skin of the apple.
 
 
-#### Farmers market
-The farmers market is a great way to get fresh, great tasting produce, and the food is typically 'cleaner' than produce in the shops, because of the lack of chemicals sprayed onto the food.
+Farmers market
+: The farmers market is a great way to get fresh, great tasting produce, and the food is typically 'cleaner' than produce in the shops, because of the lack of chemicals sprayed onto the food.
 
-#### Frequent buying
-Try to buy the freshest food most often, and that means not buying a whole load of food for two weeks, but perhaps going every four or so days to the shops or preferably the farmers market, to top up your stock.
-
+Frequent buying
+: Try to buy the freshest food most often, and that means not buying a whole load of food for two weeks, but perhaps going every four or so days to the shops or preferably the farmers market, to top up your stock.
 
 Now some don'ts:
-#### Don't grab whats in front
-Supermarkets staff are taught to shuffle the food, so the oldest is at the front and the freshest is at the back, abiding by the FIFO (first in first out) rule.
 
-#### Don't buy Pre-cut
-Pre-cut vegetables, as convenient as they seem, often cost double what buying the raw vegetable would cost.
+Don't grab whats in front
+: Supermarkets staff are taught to shuffle the food, so the oldest is at the front and the freshest is at the back, abiding by the FIFO (first in first out) rule.
 
-#### Preventing pesticides in your food
-Most foods are sprayed with varying amounts of pesticides that are bad for the environment and human health. Thick skinned food are fine, as the pesticides are usually unable to get in, but thin skin foods such as tomatoes pose a risk of absorbing the pesticides. The solution is to buy the healthier organic food (at the cost of slightly increased price) for the thin skinned food, and buy traditional produce for thick skinned food.
+Don't buy Pre-cut
+: Pre-cut vegetables, as convenient as they seem, often cost double what buying the raw vegetable would cost.
 
-#### Go by feel
-Supermarkets often try their best to make food look good, no matter how they taste, but a good metric for fresh food is the skin. Tight, moist skin should be preffered over wrinkly, and the food should be pretty heavy for its size.
+Preventing pesticides in your food
+: Most foods are sprayed with varying amounts of pesticides that are bad for the environment and human health. Thick skinned food are fine, as the pesticides are usually unable to get in, but thin skin foods such as tomatoes pose a risk of absorbing the pesticides. The solution is to buy the healthier organic food (at the cost of slightly increased price) for the thin skinned food, and buy traditional produce for thick skinned food.
 
+Go by feel
+: Supermarkets often try their best to make food look good, no matter how they taste, but a good metric for fresh food is the skin. Tight, moist skin should be preffered over wrinkly, and the food should be pretty heavy for its size.
 
-#### Don't shop on the weekend
-Most supermarket deliveries arrive early in the week to make weekend shoppers buy the oldest food, so you should shop mid-week to get the freshest, cheapest food.
+Don't shop on the weekend
+: Most supermarket deliveries arrive early in the week to make weekend shoppers buy the oldest food, so you should shop mid-week to get the freshest, cheapest food.
 
 
 ## References

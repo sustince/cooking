@@ -25,20 +25,20 @@ A balanced diet will include a variety of foods from the following groups:
 
 You should mostly avoid highly processed foods, as they are prone to having decreased nutrients and vitamins, while having extra sugar and salt.
 
-#### Fruits
-Fruits are extremely nutrient dense. They can be sweet, while being fresh and good for the body. The sugar in fruits are natural, and fruits also provide fiber and other nutrients.
+Fruits
+: Fruits are extremely nutrient dense. They can be sweet, while being fresh and good for the body. The sugar in fruits are natural, and fruits also provide fiber and other nutrients.
 
-#### Vegetables
-Vegetables are a key source of essential vitamins and minerals. Leafy greens such as spinach and broccoli are great source of many nutrients.
+Vegetables
+: Vegetables are a key source of essential vitamins and minerals. Leafy greens such as spinach and broccoli are great source of many nutrients.
 
-#### Grains
-Grains such as bread and rice have limited nutritional value, but provide many carbohydrates. They should be eaten less, but are still important. Whole grain products include the entire grain (the outside shell), which provides additional vitamins, minerals and fiber, which are healthier.
+Grains
+: Grains such as bread and rice have limited nutritional value, but provide many carbohydrates. They should be eaten less, but are still important. Whole grain products include the entire grain (the outside shell), which provides additional vitamins, minerals and fiber, which are healthier.
 
-#### Proteins
-Meats are primary sources of protein, which are essential for many things in the body. They can be substituted with beans, nuts or soy products, which still provide lots of protein, though less dense.
+Proteins
+: Meats are primary sources of protein, which are essential for many things in the body. They can be substituted with beans, nuts or soy products, which still provide lots of protein, though less dense.
 
-#### Dairy
-Dairy products provide nutrients, including protein, calcium and vitamin D which are essential to bodily functions. They also contain fat, which can increase your energy levels, but too much fat can increase calories above what the body needs and may lead to weight gain.
+Dairy
+: Dairy products provide nutrients, including protein, calcium and vitamin D which are essential to bodily functions. They also contain fat, which can increase your energy levels, but too much fat can increase calories above what the body needs and may lead to weight gain.
 
 ## Australian guide to healthy eating
 The Australian guide to healthy eating refers to the ideal way of eating nutritiously through mainly fresh food. The information is categorised using a pie chart with sectors that represent each food group. The size of the sector represents the ratio of how much you should eat. The 5 main food groups are carbohydrates, vegetables, fruit, dairy, and protein. Out of the average person’s entire diet, around 35% of it should be carbohydrates, 30% should be vegetables, 10% should be fruit, 10% should be dairy, and 15% should be protein.

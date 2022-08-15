@@ -1,8 +1,11 @@
 h2, h3
-  height: 10px
+  margin-bottom: 10px
 
-h4
-  height: 5px
+dt
+  font-weight: bold
+
+dd
+  padding-bottom: 20px
 
 a.mid
   color: inherit
