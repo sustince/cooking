@@ -20,3 +20,9 @@ The answer is in the ingredients list. If you find something that you don't reco
 
 ## Can I still eat processed foods?
 Eating some amounts of processed foods are fine, if you can restrict yourself. Remember, these foods are designed to prevent you from stopping eating them, so it can be hard to refrain. Mostly, try to fill most of your meals with whole foods, with minimal processed foods. Generally, the more unfamiliar the ingredients are, or the more unnatural the food item looks, the less you should eat.
+
+## Citations
+1. Jack Wilson, Why you should eat whole foods instead of processed foods,
+Precision Fuel and Hydration (2022). Viewed Tue 09 Aug 2022
+2. Cara Rosenbloom, The only five things your kid needs to know about food, Today’s Parent (March 8, 2016). Viewed Tue 09 Aug 2022
+3. Health Seekers, Healthy eating basics, Heart & Stroke Foundation (2022). Viewed Tue 09 Aug 2022

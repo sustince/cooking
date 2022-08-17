@@ -51,3 +51,11 @@ Oil
 
 Cooking wine
 : Wine has three main uses in the kitchen – as a marinade ingredient, as a cooking liquid, and as a flavoring in a finished dish. The function of wine in cooking is to intensify, enhance, and accent the flavor and aroma of food – not to mask the flavor of what you are cooking but rather to fortify it.
+
+## Citations
+1. RecipeTips, Ingredient Functions, recipetips (2022). Viewed Sun 24 Jul 2022
+2. MasterClass staff, Cooking With Black Pepper: Understanding How Black Pepper Modifies the Flavor of Food, masterclass (Sep 9, 2021). Viewed Sun 24 Jul 2022
+3. Bethany Moncel, What Is Soy Sauce, thespruceeats (10/13/21). Viewed Sun 24 Jul 2022
+4. Everything you need to know about cooking with oil, lovefood (30 January
+2019). Viewed Sun 24 Jul 2022
+5. MasterClass staff, Learn How to Cook With Sesame Oil, masterclass (Aug 4, 2021). Viewed Sun 24 Jul 2022

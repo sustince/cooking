@@ -113,3 +113,7 @@ The Australian Guide to Healthy Eating (AGHE) suggests for the following to be u
 
 ## Conclusion
 In general, eat plenty of fresh plant based, and limit intake of processed foods.
+
+## Citations
+1. Cara Rosenbloom, The only five things your kid needs to know about food, Today’s Parent (March 8, 2016). Viewed Tue 09 Aug 2022
+2. Healthline, Balanced Diet, healthline (July 19, 2017). Viewed Tue 09 Aug 2022

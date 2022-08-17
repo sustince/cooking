@@ -65,4 +65,7 @@ Don't shop on the weekend
 : Most supermarket deliveries arrive early in the week to make weekend shoppers buy the oldest food, so you should shop mid-week to get the freshest, cheapest food.
 
 
-## References
+## Citations
+1. Julie M. Goolsby, M.A, 4 Reasons To Eat By The Seasons + What Is In Season Right Now, mbgfood (October 15, 2019). Viewed Thu 14 July 2022
+2. Food Safety, tips for buying fruit and vegetables, Food Safety First (August 30, 2016). Viewed Thu 14 July 2022
+3. Karla Walsh, 15 Things You Shouldn’t Do When Buying Produce, eatthis, (June 9, 2021). Viewed Thu 14 July 2022
