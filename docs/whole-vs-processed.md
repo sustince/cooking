@@ -8,6 +8,8 @@ Processed foods are foods that have been chemically altered, or changed from the
 
 Foods are processed to improve shelf life, with preservatives, or perhaps improve the taste or make them look better. Most of the time, when you process food, you reduce the nutritional value of the food and makes us want to eat more, earning them more money and decreasing the amount of healthy food you are eating.
 
+![processed](../images/whole-vs-processed-processed.png)
+
 ## The problem with processed foods
 
 Normally, processed foods are high in sugar or fat. Their nutrient density falls behind compared to whole foods, while also making you eat a large amount of unwanted chemicals and additives.
@@ -18,6 +20,8 @@ They are also engineered for overconsumption, which hinders your appetite of rea
 
 The answer is in the ingredients list. If you find something that you don't recognise, some label that you think shouldn't be there, that food is most likely processed. Examples of these foods are sausages, fast food, cookies etc. You will not find these foods in nature, so they are processed.
 
+![label](../images/whole-vs-processed-label.jpg)
+
 ## Can I still eat processed foods?
 Eating some amounts of processed foods are fine, if you can restrict yourself. Remember, these foods are designed to prevent you from stopping eating them, so it can be hard to refrain. Mostly, try to fill most of your meals with whole foods, with minimal processed foods. Generally, the more unfamiliar the ingredients are, or the more unnatural the food item looks, the less you should eat.
 
@@ -26,3 +30,7 @@ Eating some amounts of processed foods are fine, if you can restrict yourself. R
 Precision Fuel and Hydration (2022). Viewed Tue 09 Aug 2022
 2. Cara Rosenbloom, The only five things your kid needs to know about food, Today’s Parent (March 8, 2016). Viewed Tue 09 Aug 2022
 3. Health Seekers, Healthy eating basics, Heart & Stroke Foundation (2022). Viewed Tue 09 Aug 2022
+
+## Images
+1. [processed](https://www.nutritionletter.tufts.edu/healthy-eating/processed-foods/)
+2. [label](https://eatsmartmovemoreva.org/facts-benefits-of-reading-a-nutrition-label/)

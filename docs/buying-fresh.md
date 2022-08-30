@@ -6,21 +6,25 @@ nx: ingredient-functions.html
 
 Buying food in season are healthier, better for the environment, and overall cheaper to buy.
 
-#### Nutrition
+### Nutrition
 Foods that are grown and consumed during their appropriate seasons are more nutritionally dense. When foods are grown out of season, they aren't able to follow their natural growing and ripening rhythms.
 In order for certain fruits and vegetables to be available year-round, post-harvest treatments, known as ripening agents, are used. These include chemicals, gases, and heat processes. Some produce is also coated with an edible film to protect it.
 Mass-produced produce intended to meet global consumer demand tends to suffer from a lack of flavor. The goal of large commercial farms is to produce a volume of "product" to meet high demand. Unfortunately, quantity and appearance override taste. Selective breeding favors uniform ripening and shelf life over flavor, leading to lackluster tomatoes and tasteless strawberries.
 
-#### Emissions
+### Emissions
+![emmisions](../images/buying-fresh-truck.jpg)
+
 Many foods that are available here are grown overseas, and then flown by airplane to us. This causes large fuel emissions and high costs for the food. Compare that to locally sourced food, which is driven a short distance from a farm, and freshly grown.
 
-#### Cost
+### Cost
 Lastly, when fruits or veggies are in season, they are more abundant due to their ease of growth, making them cheaper to grow and buy.
 
 
 ## How do I buy fresh foods?
 
 Between selection, purchase and preparation there is a lot to consider when buying fresh produce.
+
+<img width="200" alt="bruised fruit" src="../images/buying-fresh-bruised.jpg">
 
 Don't buy foods that are bruised
 : You may have been taught that bruised fruit is fine to eat, and it mostly is, but bruises are a great place for bacteria to grow, and overall the fruit is less tasty
