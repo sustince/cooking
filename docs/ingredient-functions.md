@@ -11,7 +11,8 @@ There are many ingredients that have special functions in the baking and cooking
 Here are a list of the functions of many popular ingredients you may come across when scouring recipes:
 
 ### Dry Ingredients
-![ingredients](../images/ingredient-functions-ingredients.jpg)
+![ingredients](https://www.seriouseats.com/thmb/u1KJ2XmlY4G3JLLkqKyrp-iKFOA=/1500x1125/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__12__20201203-indonesian-pantry-vicky-wasik-27-7a7374a1b17e47d4bb42c59789a6b0e2.jpg)
+[just to remove bold]:__
 
 Herbs
 : Herbs are fragrant plants used to season foods, and add a bit of extra flavour. Try to get a sense of the herbs used in recipes, perhaps try to predict the herbs used before looking at the ingredients!
@@ -32,7 +33,7 @@ Salt & Pepper
 Eggs
 : Eggs can be eaten on their own but they also serve a big role as a cooking ingredient. They give cooked dishes structure and texture, while also adding flavour, colour, liquid, protein and fat. The yolks add tenderness and flavour, while the egg whites add volume.
 
-![liquids](../images/ingredient-functions-liquids.jpg)
+![liquids](https://www.kingarthurbaking.com/sites/default/files/blog-images/2017/08/IMG_3644.jpg)
 
 ### Liquids
 
@@ -50,7 +51,7 @@ Honey
 Vinegar
 : Vinegar adds a sour, pungent taste to the foods it is added to. It has a tendency to lose its pungency when heated so if you desire a stronger flavor from the vinegar when adding it to a heated dish, you should add it after the dish is removed from the heat.
 
-![sauces](../images/ingredient-functions-sauces.jpg)
+![sauces](https://t3.ftcdn.net/jpg/03/18/05/78/360_F_318057888_NBmwqXrJFympg4957G0WNRORngpMNWzb.jpg)
 
 Soy sauce
 : Soy sauce provides salt, sweet, umami (savory), and even a little bitter flavor. This balanced flavor profile makes it an excellent condiment. Soy sauce can be used in a marinade or braising liquid for meat or added when cooking stews or soups. It's a basic way of building depth of flavor, is not affected by heat during cooking, and can provide a pleasing brown color to your dish. In stir-fries, it is usually mixed with the vegetables before including the noodles, but more soy sauce can be added at any time in the cooking process.
@@ -75,7 +76,3 @@ Cooking wine
 6. RecipeTips, All about Garlic, recipetips (2022). Viewed Thu 30 Aug 2022
 7. RecipeTips, All about Ginger, recipetips (2022). Viewed Thu 30 Aug 2022
 8. J.M. Hirsch, How to use fresh ginger, foodnetwork (2011). Viewed Thu 30 Aug 2022
-
-## Images
-1. [ingredients](https://www.seriouseats.com/indonesian-essential-ingredients)
-2. [liquids](https://www.kingarthurbaking.com/blog/2017/08/18/baking-with-liquid-sweeteners)

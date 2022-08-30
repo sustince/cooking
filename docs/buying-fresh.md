@@ -12,7 +12,7 @@ In order for certain fruits and vegetables to be available year-round, post-harv
 Mass-produced produce intended to meet global consumer demand tends to suffer from a lack of flavor. The goal of large commercial farms is to produce a volume of "product" to meet high demand. Unfortunately, quantity and appearance override taste. Selective breeding favors uniform ripening and shelf life over flavor, leading to lackluster tomatoes and tasteless strawberries.
 
 ### Emissions
-![emmisions](../images/buying-fresh-truck.jpg)
+![truck smoke](https://s29755.pcdn.co/wp-content/uploads/2022/02/EPA-truck-smoke-credit-JAFW.jpg.optimal.jpg)
 
 Many foods that are available here are grown overseas, and then flown by airplane to us. This causes large fuel emissions and high costs for the food. Compare that to locally sourced food, which is driven a short distance from a farm, and freshly grown.
 
@@ -24,7 +24,7 @@ Lastly, when fruits or veggies are in season, they are more abundant due to thei
 
 Between selection, purchase and preparation there is a lot to consider when buying fresh produce.
 
-<img width="200" alt="bruised fruit" src="../images/buying-fresh-bruised.jpg">
+![bruised fruit](https://images.food52.com/4PswkWGHhWJ4ir_9MeY83fb1MuA=/1200x675/4f1ccb31-3bdc-41ca-9163-835ccf54bbdb--9670997393_c55248f892_z.jpg)
 
 Don't buy foods that are bruised
 : You may have been taught that bruised fruit is fine to eat, and it mostly is, but bruises are a great place for bacteria to grow, and overall the fruit is less tasty

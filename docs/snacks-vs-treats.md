@@ -8,6 +8,8 @@ Snacks fuel brain power, promote concentration, nourish the body and provide sus
 
 Treats are often higher in sugar, fat and salt such as chips or cookies, which is unhealthy and increases fatigue and craving, and should be limited.
 
+![snacks vs treats](https://uhds.oregonstate.edu/sites/uhds.oregonstate.edu/files/snacksvstreats_infographic.jpg)
+
 ## Citations
 1. Cara Rosenbloom, Do you know the difference between a snack and a treat?,
 The Washington Post (May 26, 2016). Viewed Tue 09 Aug 2022
