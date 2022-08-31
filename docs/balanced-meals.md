@@ -42,7 +42,7 @@ Proteins
 Dairy
 : Dairy products provide nutrients, including protein, calcium and vitamin D which are essential to bodily functions. They also contain fat, which can increase your energy levels, but too much fat can increase calories above what the body needs and may lead to weight gain.
 
-![AGHE](https://www.eatforhealth.gov.au/guidelines/australian-guide-healthy-eating)
+![AGHE](https://www.eatforhealth.gov.au/sites/default/files/images/the_guidelines/n55_agthe_large.jpg)
 
 ## Australian guide to healthy eating
 The Australian guide to healthy eating refers to the ideal way of eating nutritiously through mainly fresh food. The information is categorised using a pie chart with sectors that represent each food group. The size of the sector represents the ratio of how much you should eat. The 5 main food groups are carbohydrates, vegetables, fruit, dairy, and protein. Out of the average person’s entire diet, around 35% of it should be carbohydrates, 30% should be vegetables, 10% should be fruit, 10% should be dairy, and 15% should be protein.
