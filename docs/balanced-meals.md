@@ -2,6 +2,10 @@ tt: Balanced meals
 nx: 80-20-rule.html
 ---
 
+In order to have a healthy diet, balance is key. There has to be a balance between all the foods you eat. The key things you need in your body are the macronutrients. Which include carbs, protein and fats.
+
+The main benefit of consuming carbs is because it provides our bodies with glucose (sugar), in order for it to convert to energy. However, eating too much can make you gain weight, since if your not using the sugars the carbs give you, it will just convert into fat. Thats why kids our age should only eat 130-230grams of carbs. Food with lots of carbs include, bread, noodles, pasta and potatoes.
+
 ## What are balanced meals?
 
 A balanced diet gives your body the nutrients it needs to function correctly. Without balanced nutrition, your body is more prone to disease, infection, fatigue, and low performance.

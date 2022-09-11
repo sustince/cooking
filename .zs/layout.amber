@@ -25,4 +25,4 @@ html
 
 			#{unescaped(content)}
 
-		script src="js/minimal-theme-switcher.js"
+		script[src="js/minimal-theme-switcher.js"]
